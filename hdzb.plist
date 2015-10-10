@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-     <string>http://122.224.165.243:8099/build/icon_120.png</string>
+                   <string>http://122.224.165.243:8099/build/icon_120.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
@@ -38,9 +38,9 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>我的应用</string>
+               <string>海岛争霸</string>
                <key>title</key>
-               <string>我的应用</string>
+               <string>海岛争霸</string>
            </dict>
        </dict>
    </array>
